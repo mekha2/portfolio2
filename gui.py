@@ -39,12 +39,7 @@ text_entry = tk.Entry(root, width=30)
 text_entry.pack(pady=5)
 
 
-# speed_label = tk.Label(root, text="Adjust Speed:", font=("Arial", 10))
-# speed_label.pack(pady=5)
 
-# speed_slider = tk.Scale(root, from_=50, to=300, orient="horizontal", command=change_speed)
-# speed_slider.set(150)  
-# speed_slider.pack(pady=5)
 
 button_frame=tk.Frame(root)
 button_frame.pack(pady=5)
